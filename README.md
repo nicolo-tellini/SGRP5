@@ -1,2 +1,2 @@
 # SGRP5
-Collection of pipeline used for the SGRP5 project
+Collection of pipelines used for the SGRP5 project
