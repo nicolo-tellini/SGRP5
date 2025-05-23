@@ -1,2 +1,3 @@
 # SGRP5
-Collection of pipelines used for the SGRP5 project
+
+1) Assessment of Saccharomyces species composition (sppComp) by competitive mapping Illumina reads against a multi-fasta multi-species whole-genome assembly. 
