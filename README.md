@@ -1,4 +1,8 @@
 # SGRP5
+Informative dedicated website at https://sgrp5.wordpress.com
+
+## About the SGRP5 
+
 Just so you know, the first version of the pipelines is the one used in the manuscript. 
 The latest version may differ in tool composition, flag changes and/or additional functions. I like to keep them up to date with the latest tool version and new tools.  
 
